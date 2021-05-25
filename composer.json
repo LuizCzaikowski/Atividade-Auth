@@ -1,0 +1,16 @@
+{
+    "name": "luiz/sistema-auth",
+    "authors": [
+        {
+            "name": "LuizCzaikowski",
+            "email": "luiz-234@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+		"psr-4": {
+            "App\\" : "app/",
+            "Src\\" : "src/"
+        }
+    }
+}
